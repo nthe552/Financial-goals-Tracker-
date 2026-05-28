@@ -1,2 +1,2 @@
 # Financial-goals-Tracker-
-No description yet
+*Only download zip file* 
